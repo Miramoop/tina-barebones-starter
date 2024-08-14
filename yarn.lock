@@ -8247,7 +8247,7 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-tinacms@2.1.1, tinacms@^2.1.0:
+tinacms@2.1.1, tinacms@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-2.1.1.tgz#a91ca871e44b60cab3c943d772feaf60f3b8afe3"
   integrity sha512-I6al4oVAExdpdyU89HhrLtStwBPtLxiGU+NWxDg24TRUnmLUyNmLSXaYcWBUK6GqpMcaj6b0HDr8IEx7zjhDDw==
